@@ -1,0 +1,89 @@
+body {
+	background: url('../images/BG.png') no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+img {
+    height: 130px;
+}
+
+div {
+    display: inline-block;
+}
+
+h1 {
+    margin: 10px;
+    color: #a7f8f8;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h2 {
+    margin: 10px;
+    color: #a7f8f8;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+h3 {
+    margin: 10px;
+    color: #a7f8f8;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.reset-button {
+    display: none;
+}
+
+.result-screen-win {
+    color: #a7f8f8;
+    display: none;
+}
+
+.result-screen-lose {
+    color: #a7f8f8;
+    display: none;
+}
+
+.aangContent {
+    width: 240px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #382974;
+    margin: 10px;
+    background-color: white;
+}
+
+.kataraContent {
+    width: 240px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #382974;
+    margin: 10px;
+    background-color: white;
+}
+
+.sokkaContent {
+    width: 240px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #382974;
+    margin: 10px;
+    background-color: white;
+}
+
+.tophContent {
+    width: 240px;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #382974;
+    margin: 10px;
+    background-color: white;
+}
+
